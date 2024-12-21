@@ -1,0 +1,11 @@
+items:
+  - title: "Blog"
+    path: "/"
+    icon: "fa-regular fa-newspaper"
+  - title: "Documentation"
+    path: "https://pages.quarkiverse.io/quarkus-roq/docs/"
+    icon: "fa-solid fa-book"
+    target: "_blank"
+  - title: "About"
+    path: "/about"
+    icon: "fa fa-thumbs-up"
