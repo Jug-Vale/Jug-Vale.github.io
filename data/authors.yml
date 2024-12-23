@@ -1,10 +1,8 @@
-roqqy:
-  name: "Roqqy Balboa"
-  job: Roq Boxer
-  nickname: roqqy
-  profile: "https://github.com/quarkiverse/quarkus-roq"
-  avatar: "https://raw.githubusercontent.com/quarkiverse/quarkus-roq/refs/heads/main/blog/static/assets/images/iamroq.png"
+pedro:
+  name: "Pedro Hos"
+  job: Senior Software Engineer
+  nickname: pedro-hos
+  profile: "https://github.com/pedro-hos"
+  avatar: "https://github.com/pedro-hos/blog/blob/main/static/assets/images/pedrohos.jpg?raw=true"
   bio: |
-    Quarkus is my go-to framework for making Java development not only faster but more fun. 
-    I’m driven by the mission to create high-performance, lightweight microservices that scale effortlessly in the cloud. 
-    With Quarkus, I can push Java to its limits, and nothing excites me more than exploring new ways to optimize and streamline applications with this amazing toolkit.
+    I'm Pedro Hos a passionate software developer with over 10 years of experience working with Java. Currently, I am a Senior Software Engineer at Red Hat, working on the Application Runtime Sustaining team (Wildfly, Quarkus, Keycloak). I lead the JUG Vale community and advocate for open data and open-source initiatives. I enjoy mountain biking, writing, cooking and hiking in my free time.
