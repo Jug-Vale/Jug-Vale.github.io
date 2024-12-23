@@ -15,6 +15,8 @@ Queremos organizar os nossos eventos e grupo de forma que todos participem, sem 
 
 Qualquer dúvida ou sugestão, nos envie um e-mail: jugvale@gmail.com.
 
+Veja todas nossas redes em [linktr.ee/jugvale](https://linktr.ee/jugvale)
+
 ## Authors
 
 <div class="authors">
