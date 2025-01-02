@@ -12,8 +12,6 @@ Espaço para a divulgação de vagas para desenvolvedores na região do Vale do 
 # Vagas Abertas
 ---
 
-{#for page in site.pages}
-{#if page.data.layout == "positions"}
-- [{page.data.title} - {page.data.company}]({page.url})
-{/if}
+{#for position in site.collections.positions}
+- [{position.title} - {position.data.company}]({position.url})
 {/for}

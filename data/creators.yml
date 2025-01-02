@@ -1,0 +1,70 @@
+creators:
+  - william:
+    name: William Antônio
+    blogs:
+      - blog1:
+        name: William Antônio
+        url: https://williamantonio.wordpress.com/
+      - blog2:
+        name: Aprendendo Java FX
+        url: http://aprendendo-javafx.blogspot.com.br/
+      - blog3:
+        name: Aprendendo Java EE
+        url: http://aprendendo-javaee.blogspot.com.br/
+      - blog4:
+        name: Aprendendo Java SE
+        url: https://aprendendo-javase.blogspot.com.br/
+    youtube:
+      - youtube1:
+        name: William Siqueira
+        url: https://www.youtube.com/channel/UCqcrA3XWMvkFotZ4WNgBMsg
+      - youtube2:
+        name: Aprendendo Java
+        url: https://www.youtube.com/channel/UCqcrA3XWMvkFotZ4WNgBMsg
+    instagram:
+    facebook: 
+      - facebook1:
+        name: Aprendendo Java
+        url: https://www.facebook.com/SerieBlogsAprendendo?fref=ts
+  - pedrohos:
+    name: Pedro Hos
+    blogs:
+      - blog1:
+        name: Pedro Hos EN
+        url: https://pedro-hos.github.io/blog
+      - blog2:
+        name: Pedro Hos PT
+        url: https://pedrohosilva.worpress.com
+    youtube:
+      - youtube1:
+        name: Pedro Hos Dev
+        url: https://www.youtube.com/@pedrohosdev
+    instagram:
+    facebook:
+  - leodev:
+    name: Leonardo Silva
+    blogs:
+    youtube:
+      - youtube1:
+        name: Leonardo Silva
+        url: https://www.youtube.com/channel/UC4I5zgAzQMpAC44C4jH-JGA
+    instagram:
+    facebook:
+  - leoguarino:
+    name: Leonardo Guarino
+    blogs:
+    youtube:
+      - youtube1:
+        name: Leonardo Guarino
+        url: https://www.youtube.com/user/leguarino
+    instagram:
+    facebook:
+  - guerra:
+    name: Eduardo Guerra
+    blogs:
+    youtube:
+      - youtube1:
+        name: Eduardo Guerra
+        url: https://www.youtube.com/channel/UCCUxbxaPefOjgD14-7UbjVg
+    instagram:
+    facebook:
